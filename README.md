@@ -2,8 +2,9 @@
 
 Projeto Fullstack de controle financeiro desenvolvido para gerenciamento de entradas e saídas. O sistema conta com dashboard interativo, exclusão em massa e cálculos em tempo real.
 
-![FinDash Preview](https://via.placeholder.com/800x400?text=Preview+do+FinDash)
-*(Nota: Quando subir seu print no GitHub, edite este arquivo e troque o link acima pelo da sua imagem)*
+![Dashboard](./assets/dashboard.png)
+![Modal](./assets/modal.png)
+![Tabela](./assets/table.png)
 
 ## 🚀 Tecnologias
 
@@ -64,3 +65,4 @@ git add README.md
 git commit -m "docs: fix readme formatting"
 git push
 ```
+
