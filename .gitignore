@@ -1,0 +1,11 @@
+node_modules
+/server/node_modules
+/web/node_modules
+dist
+build
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
+*.log
+.env
