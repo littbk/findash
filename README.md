@@ -2,9 +2,9 @@
 
 Projeto Fullstack de controle financeiro desenvolvido para gerenciamento de entradas e saídas. O sistema conta com dashboard interativo, exclusão em massa e cálculos em tempo real.
 
-![Dashboard](./assets/dashboard.png)
-![Modal](./assets/modal.png)
-![Tabela](./assets/table.png)
+![Dashboard](./assets/dashboard.jpg)
+![Modal](./assets/modal.jpg)
+![Tabela](./assets/table.jpg)
 
 ## 🚀 Tecnologias
 
@@ -65,4 +65,5 @@ git add README.md
 git commit -m "docs: fix readme formatting"
 git push
 ```
+
 
